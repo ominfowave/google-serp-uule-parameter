@@ -12,4 +12,11 @@ so we can search like
 
 you will get all results from that location.
 
+to see the location from official google data visit here:
+https://developers.google.com/adwords/api/docs/appendix/geotargeting?hl=en&csw=1
+
+To download data:
+https://developers.google.com/adwords/api/docs/appendix/geo/geotargets-2019-05-02.csv
+
+
 Thank you
